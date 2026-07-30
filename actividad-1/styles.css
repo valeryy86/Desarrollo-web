@@ -1,0 +1,23 @@
+body {
+    font-family: Tahoma, Verdana, sans-seri;
+    text-align: center;
+}
+
+.h1principal {
+    color: lightcoral;
+}
+
+.nombre {
+    color: lightcoral;
+}
+
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
