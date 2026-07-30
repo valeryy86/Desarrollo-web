@@ -11,13 +11,11 @@ body {
     color: lightcoral;
 }
 
-
-img {
-    display: block;
-    margin: 0 auto;
-}
-
 ul {
     display: inline-block;
     text-align: left;
+}
+
+img {
+    border: 5px solid pink;
 }
